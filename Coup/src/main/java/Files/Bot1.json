@@ -1,0 +1,12 @@
+{
+  "index" : "Player1",
+  "cards":
+  [{"isFace" : false,
+    "cardName" : "Captain3"},
+    {"isFace" : false,
+      "cardName" : "Ambassador2"}],
+  "coins" : 2,
+  "isLoser" : false,
+  "isAllowed" : true,
+  "botType" : "Paranoid"
+}

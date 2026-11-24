@@ -1,0 +1,11 @@
+{
+"index" : "You",
+  "cards":
+  [{"isFace" : false,
+    "cardName" : "Contessa1"},
+    {"isFace" : false,
+      "cardName" : "Duke2"}],
+  "coins" : 2,
+  "isLoser" : false,
+  "isAllowed" : true
+}
